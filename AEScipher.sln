@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AEScipher", "AEScipher\AEScipher.csproj", "{522BEC35-1500-4C33-A4E9-F0DB1645A8D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522BEC35-1500-4C33-A4E9-F0DB1645A8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522BEC35-1500-4C33-A4E9-F0DB1645A8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522BEC35-1500-4C33-A4E9-F0DB1645A8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522BEC35-1500-4C33-A4E9-F0DB1645A8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77AC4F63-ADE5-404F-96E9-C320890BFEA6}
+	EndGlobalSection
+EndGlobal
